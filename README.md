@@ -16,5 +16,4 @@
 </div>
 <div align="center">
     <a href="mailto:aahmetefecakir@gmail.com" target="_blank"><img src="https://shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 <div>
